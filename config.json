@@ -1,0 +1,16 @@
+{
+    "title": "DataHub Cloud Template",
+    "description": "You can use this template repository to bootstrap your own DataHub Cloud site.",
+    "logo": "https://datahub.io/datahub-cube.svg",
+    "nav": {
+        "logo": "https://datahub.io/datahub-cube.svg",
+        "title": "DataHub Cloud Site Template",
+        "links": [
+            { "href": "https://datahub.io/docs", "name": "Docs" }
+        ],
+        "social": [
+            { "href": "https://discord.com/abc", "name": "Discord", "label": "discord" }
+        ]
+    },
+    "showSidebar": false
+}
